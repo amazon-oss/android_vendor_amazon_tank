@@ -24,6 +24,10 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/hw/hdmi_cec.amazon.mt8127.so:system/lib/hw/hdmi_cec.amazon.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/hwcomposer.mt8127.so:system/lib/hw/hwcomposer.mt8127.so \
     vendor/amazon/tank/proprietary/lib/libMali.so:system/lib/libMali.so \
+    vendor/amazon/tank/proprietary/lib/libMtkOmxCore.so:system/lib/libMtkOmxCore.so \
+    vendor/amazon/tank/proprietary/lib/libMtkOmxMp3Dec.so:system/lib/libMtkOmxMp3Dec.so \
+    vendor/amazon/tank/proprietary/lib/libMtkOmxVdec.so:system/lib/libMtkOmxVdec.so \
+    vendor/amazon/tank/proprietary/lib/libMtkOmxVenc.so:system/lib/libMtkOmxVenc.so \
     vendor/amazon/tank/proprietary/lib/lib_uree_mtk_video_secure_al.so:system/lib/lib_uree_mtk_video_secure_al.so \
     vendor/amazon/tank/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
     vendor/amazon/tank/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
@@ -33,8 +37,12 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/libhdmi.so:system/lib/libhdmi.so \
     vendor/amazon/tank/proprietary/lib/libhdmiservice.so:system/lib/libhdmiservice.so \
     vendor/amazon/tank/proprietary/lib/libhwm.so:system/lib/libhwm.so \
+    vendor/amazon/tank/proprietary/lib/libmp2dec_sa.ca7.so:system/lib/libmp2dec_sa.ca7.so \
     vendor/amazon/tank/proprietary/lib/libmtk_mali_user.so:system/lib/libmtk_mali_user.so \
     vendor/amazon/tank/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/amazon/tank/proprietary/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
     vendor/amazon/tank/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:system/lib/liburee_meta_drmkeyinstall_v2.so \
+    vendor/amazon/tank/proprietary/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
+    vendor/amazon/tank/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
+    vendor/amazon/tank/proprietary/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
     vendor/amazon/tank/proprietary/vendor/lib/libdlb_converter.so:system/vendor/lib/libdlb_converter.so
