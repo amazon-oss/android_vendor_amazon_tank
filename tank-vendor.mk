@@ -45,6 +45,22 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
     vendor/amazon/tank/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/amazon/tank/proprietary/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_0413.kl:system/usr/keylayout/Vendor_0171_Product_0413.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_0419.kl:system/usr/keylayout/Vendor_0171_Product_0419.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_041c.kl:system/usr/keylayout/Vendor_0171_Product_041c.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_041e.kl:system/usr/keylayout/Vendor_0171_Product_041e.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_0420.kl:system/usr/keylayout/Vendor_0171_Product_0420.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_0421.kl:system/usr/keylayout/Vendor_0171_Product_0421.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_0171_Product_0425.kl:system/usr/keylayout/Vendor_0171_Product_0425.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0401.kl:system/usr/keylayout/Vendor_1949_Product_0401.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0402.kl:system/usr/keylayout/Vendor_1949_Product_0402.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0404.kl:system/usr/keylayout/Vendor_1949_Product_0404.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0406.kl:system/usr/keylayout/Vendor_1949_Product_0406.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0407.kl:system/usr/keylayout/Vendor_1949_Product_0407.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0409.kl:system/usr/keylayout/Vendor_1949_Product_0409.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_040a.kl:system/usr/keylayout/Vendor_1949_Product_040a.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0415.kl:system/usr/keylayout/Vendor_1949_Product_0415.kl \
+    vendor/amazon/tank/proprietary/usr/keylayout/Vendor_1949_Product_0419.kl:system/usr/keylayout/Vendor_1949_Product_0419.kl \
     vendor/amazon/tank/proprietary/vendor/firmware/BCM43569A2_001.003.004.1001.0000_Generic_UART_40MHz_fcbga_BU_AmazonTank.hcd:system/vendor/firmware/BCM43569A2_001.003.004.1001.0000_Generic_UART_40MHz_fcbga_BU_AmazonTank.hcd \
     vendor/amazon/tank/proprietary/vendor/firmware/brcm/bcm43569a2-firmware.bin:system/vendor/firmware/brcm/bcm43569a2-firmware.bin \
     vendor/amazon/tank/proprietary/vendor/firmware/brcm/bcm43569a2.nvm:system/vendor/firmware/brcm/bcm43569a2.nvm \
