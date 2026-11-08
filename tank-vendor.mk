@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/bin/mdp_server:system/bin/mdp_server \
     vendor/amazon/tank/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
     vendor/amazon/tank/proprietary/lib/hw/gralloc.mt8127.so:system/lib/hw/gralloc.mt8127.so \
+    vendor/amazon/tank/proprietary/lib/hw/hdmi_cec.amazon.mt8127.so:system/lib/hw/hdmi_cec.amazon.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/hwcomposer.mt8127.so:system/lib/hw/hwcomposer.mt8127.so \
     vendor/amazon/tank/proprietary/lib/libMali.so:system/lib/libMali.so \
     vendor/amazon/tank/proprietary/lib/lib_uree_mtk_video_secure_al.so:system/lib/lib_uree_mtk_video_secure_al.so \
