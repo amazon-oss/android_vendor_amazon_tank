@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/bin/kisd:system/bin/kisd \
     vendor/amazon/tank/proprietary/bin/mdp_server:system/bin/mdp_server \
     vendor/amazon/tank/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
+    vendor/amazon/tank/proprietary/lib/hw/audio.btle.default.so:system/lib/hw/audio.btle.default.so \
     vendor/amazon/tank/proprietary/lib/hw/audio.primary.mt8127.so:system/lib/hw/audio.primary.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/gralloc.mt8127.so:system/lib/hw/gralloc.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/hdmi_cec.amazon.mt8127.so:system/lib/hw/hdmi_cec.amazon.mt8127.so \
@@ -39,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/amazon/tank/proprietary/lib/libmp2dec_sa.ca7.so:system/lib/libmp2dec_sa.ca7.so \
     vendor/amazon/tank/proprietary/lib/libmtk_mali_user.so:system/lib/libmtk_mali_user.so \
+    vendor/amazon/tank/proprietary/lib/libopuscodec.so:system/lib/libopuscodec.so \
     vendor/amazon/tank/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/amazon/tank/proprietary/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
     vendor/amazon/tank/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:system/lib/liburee_meta_drmkeyinstall_v2.so \
