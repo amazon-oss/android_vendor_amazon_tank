@@ -45,4 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/libvcodec_oal.so:system/lib/libvcodec_oal.so \
     vendor/amazon/tank/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/amazon/tank/proprietary/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
+    vendor/amazon/tank/proprietary/vendor/firmware/brcm/bcm43569a2-firmware.bin:system/vendor/firmware/brcm/bcm43569a2-firmware.bin \
+    vendor/amazon/tank/proprietary/vendor/firmware/brcm/bcm43569a2.nvm:system/vendor/firmware/brcm/bcm43569a2.nvm \
     vendor/amazon/tank/proprietary/vendor/lib/libdlb_converter.so:system/vendor/lib/libdlb_converter.so
