@@ -19,11 +19,14 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/bin/kisd:system/bin/kisd \
     vendor/amazon/tank/proprietary/bin/mdp_server:system/bin/mdp_server \
     vendor/amazon/tank/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
+    vendor/amazon/tank/proprietary/lib/hw/audio.primary.mt8127.so:system/lib/hw/audio.primary.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/gralloc.mt8127.so:system/lib/hw/gralloc.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/hdmi_cec.amazon.mt8127.so:system/lib/hw/hdmi_cec.amazon.mt8127.so \
     vendor/amazon/tank/proprietary/lib/hw/hwcomposer.mt8127.so:system/lib/hw/hwcomposer.mt8127.so \
     vendor/amazon/tank/proprietary/lib/libMali.so:system/lib/libMali.so \
     vendor/amazon/tank/proprietary/lib/lib_uree_mtk_video_secure_al.so:system/lib/lib_uree_mtk_video_secure_al.so \
+    vendor/amazon/tank/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
+    vendor/amazon/tank/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
     vendor/amazon/tank/proprietary/lib/libbwc.so:system/lib/libbwc.so \
     vendor/amazon/tank/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
     vendor/amazon/tank/proprietary/lib/libdpframework.so:system/lib/libdpframework.so \
@@ -32,4 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tank/proprietary/lib/libhwm.so:system/lib/libhwm.so \
     vendor/amazon/tank/proprietary/lib/libmtk_mali_user.so:system/lib/libmtk_mali_user.so \
     vendor/amazon/tank/proprietary/lib/libqservice.so:system/lib/libqservice.so \
-    vendor/amazon/tank/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:system/lib/liburee_meta_drmkeyinstall_v2.so
+    vendor/amazon/tank/proprietary/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
+    vendor/amazon/tank/proprietary/lib/liburee_meta_drmkeyinstall_v2.so:system/lib/liburee_meta_drmkeyinstall_v2.so \
+    vendor/amazon/tank/proprietary/vendor/lib/libdlb_converter.so:system/vendor/lib/libdlb_converter.so
